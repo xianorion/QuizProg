@@ -1,0 +1,13 @@
+%a text file that open in Quiz prog to show the user how the format of the there text must be uploaded to work with QuizProg
+
+Make sure your text file is in the following format:
+
+1. place you questions after a number and a period. Then place your answers after the question
+	on the following lines (Do not number the answers, QuizProg will do it for you based on order input)
+>1.How many hours are in a day?
+>	24
+>	23
+>	19
+
+In the example above, Quizprog will set the questions as: "How many hours are in a day?" (anything after number+.)
+Then it will assign a.24, b.23
